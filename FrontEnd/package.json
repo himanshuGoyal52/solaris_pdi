@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "This is ed-tech platform which is based on blockchain technology",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu Goyal",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "nodemon": "^2.0.20"
+  }
+}

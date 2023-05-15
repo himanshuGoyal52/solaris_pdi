@@ -1,0 +1,14 @@
+star : <i class='bx bxs-star'></i>
+star outline : <i class='bx bx-star' ></i>
+half star : <i class='bx bxs-star-half' ></i>
+clock : <i class='bx bx-time-five' ></i>
+bar graph : <i class='bx bxs-bar-chart-square' ></i>
+arrow up : <i class='bx bx-chevron-up' ></i>
+arrow right : <i class='bx bx-chevron-right' ></i>
+check : <i class='bx bxs-check-circle' ></i>
+heart : <i class='bx bx-heart' ></i>
+play : <i class='bx bx-play-circle' ></i>
+tick : <i class='bx bx-check' ></i>
+mail : <i class='bx bx-envelope' ></i>
+instagram : <i class='bx bxl-instagram-alt' ></i>
+notification (bell) : <i class='bx bx-bell' ></i>

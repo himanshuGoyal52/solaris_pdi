@@ -1,0 +1,19 @@
+MongoDB data base pricing is : ₹4725/month ( 10GB to 4TB storage )
+
+Hosting : we can opt for free hosting of vercel service at start
+
+
+
+
+
+Udemy , coursera , nptl , sawyam
+
+COURSERA : 
+Coursera first began working with a few schools (Stanford, Princeton, University of Michigan, and the University of Pennsylvania) to bring some of their popular courses online. Today, Coursera also partners with businesses, governments, and nonprofit organizations. As of May 2021, Coursera is partnered with more than 200 institutions around the world and offers over 3,000 courses, certificates, projects, and specialty fields to millions of learners.
+
+UDEMY : 
+https://infostride.com/udemy-business-model/
+
+
+connect to application 
+url : mongodb+srv://solaris_user_01:Solaris_1234@clusterforsolaris.gbcoxgt.mongodb.net/solaris?retryWrites=true&w=majority
